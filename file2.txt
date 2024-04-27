@@ -1,2 +1,3 @@
 content v1 of file2
 content v3 of file2
+content v4 of file2

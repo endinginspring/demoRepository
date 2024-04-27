@@ -1,1 +1,2 @@
+content v1 of file2
 content v2 of file2
